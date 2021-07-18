@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CountDigits {
     public static void main(String[] args)
     {
-        int count = 0;
+        int count = 0; 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number whose digits count is to be calculated: ");
         int n = sc.nextInt();
